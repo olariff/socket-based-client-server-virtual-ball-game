@@ -1,5 +1,5 @@
 # Socket-based client-server virtual ball game
-A socket-based client-server system to play a virtual ball is designed. Each client application is a player. Once a player receives a ball, it prompts the user whom to pass the ball to. The clients can connect and disconnect from the server at any time.
+A socket-based client-server system to play a virtual ball is designed using Java programming language. Each client application is a player. Once a player receives a ball, it prompts the user whom to pass the ball to. The clients can connect and disconnect from the server at any time.
 
 # Rules of the game
 At any point in time, exactly one player has the virtual ball. Thisplayer needs to decide who to pass the ball to. (They are allowed to
